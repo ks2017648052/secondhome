@@ -8,3 +8,12 @@
 - 우수 이용자
 - Q&A
 - 검색기능
+
+메인화면
+https://github.com/ks2017648052/secondhome/issues/1#issue-795770596
+
+이달의레시피 
+https://github.com/ks2017648052/secondhome/issues/2#issue-795770742
+
+최근 인기있는레시피
+https://github.com/ks2017648052/secondhome/issues/3#issue-795770849
